@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // test commit functionality
+// 2nd test for commits
 type footSolider struct {
 	speed  int
 	sRange int
