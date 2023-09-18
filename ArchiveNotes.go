@@ -1,15 +1,37 @@
 package main
 
-import "fmt"
-
 //var x int = 10
 //const y int = 20
+/*
+type person struct {
+	name string
+}
+
+func main() {
+
+	p1 := person{
+		name: "Bob",
+	}
+
+	p2 := person{
+		name: "Tim",
+	}
+
+	p1.people()
+	p2.people()
+
+}
+
+func (n person) people() {
+	fmt.Println("My name is", n.name)
+}
+
 
 func main() {
 
 	fmt.Println("Testing")
 	test(10, 20)
-	/*
+
 		lads := struct {  //anonymous Structs
 			first     string
 			friends   map[string]int
@@ -430,9 +452,10 @@ func main() {
 												fmt.Println("less than rando")
 											} else {
 												fmt.Println("More than rando")
-											}*/
+											}
 }
 
 func test(x int, y int) {
 	fmt.Println(x + y)
 }
+*/
