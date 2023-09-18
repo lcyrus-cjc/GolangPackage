@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// test commit functionality
 type footSolider struct {
 	speed  int
 	sRange int
